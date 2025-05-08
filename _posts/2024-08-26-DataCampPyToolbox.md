@@ -1,6 +1,6 @@
 ---
 layout: post
-title: DataCamp Data Python Toolbox
+title: Data Python Toolbox
 date: 2024-08-26 11:18 +0800
 tags: [python]
 toc:  true

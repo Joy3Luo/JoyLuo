@@ -1,8 +1,8 @@
 ---
 layout: post
-title: DataCamp Introduction to Git
+title: Introduction to Git
 date: 2024-01-28 11:18 +0800
-tags: [python]
+tags: [git]
 toc:  true
 ---
 

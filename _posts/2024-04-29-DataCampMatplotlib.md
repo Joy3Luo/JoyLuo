@@ -1,6 +1,6 @@
 ---
 layout: post
-title: DataCamp Data Visualization with Matplotlib
+title: Data Visualization with Matplotlib
 date: 2024-04-29 11:18 +0800
 tags: [python]
 toc:  true

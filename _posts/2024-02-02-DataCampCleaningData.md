@@ -1,6 +1,6 @@
 ---
 layout: post
-title: DataCamp Cleaning Data in Python
+title: Cleaning Data in Python
 date: 2024-02-02 11:18 +0800
 tags: [python]
 toc:  true

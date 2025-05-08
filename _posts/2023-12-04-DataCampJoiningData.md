@@ -1,6 +1,6 @@
 ---
 layout: post
-title: DataCamp Joining Data with pandas
+title: Joining Data with pandas
 date: 2023-12-04 11:18 +0800
 tags: [python]
 toc:  true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: DataCamp Importing Data in Python
+title: Importing Data in Python
 date: 2023-12-28 11:18 +0800
 tags: [python]
 toc:  true

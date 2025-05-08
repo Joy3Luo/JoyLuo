@@ -1,6 +1,6 @@
 ---
 layout: post
-title: DataCamp Python Data Science Toolbox
+title: Python Data Science Toolbox
 date: 2023-12-03 11:18 +0800
 tags: [python]
 toc:  true

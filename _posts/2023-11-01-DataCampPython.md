@@ -1,6 +1,6 @@
 ---
 layout: post
-title: DataCamp Intermediate Python
+title: Intermediate Python
 date: 2023-11-01 11:18 +0800
 tags: [python]
 toc:  true

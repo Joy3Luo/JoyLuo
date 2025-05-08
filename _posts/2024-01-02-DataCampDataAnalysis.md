@@ -1,6 +1,6 @@
 ---
 layout: post
-title: DataCamp Exploratory Data Analysis in Python
+title: Exploratory Data Analysis in Python
 date: 2024-01-02 11:18 +0800
 tags: [python]
 toc:  true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: DataCamp Data Supervised Learning with scikit-learn
+title: Data Supervised Learning with scikit-learn
 date: 2024-05-05 11:18 +0800
 tags: [python]
 toc:  true

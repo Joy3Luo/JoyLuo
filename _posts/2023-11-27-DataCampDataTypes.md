@@ -1,6 +1,6 @@
 ---
 layout: post
-title: DataCamp Data Types for Data Science in Python
+title: Data Types for Data Science in Python
 date: 2023-11-27 11:18 +0800
 tags: [python]
 toc:  true
