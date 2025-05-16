@@ -34,7 +34,7 @@ Describe the role of the Supply Chain Analysts to assist in meeting sustainabili
 In this module, you will learn the entire supply chain management process and the key partners involved. You will also learn the history of supply chain and big events that can have an impact on customer value and you will get to take a look into future trends and technology that may impact the future of supply chain management.
 
 
-### Welcome to supply chain management
+#### Welcome to supply chain management
 
 Take a moment to imagine that you're shopping at your favorite retail store and find the perfect t-shirt. You buy it, bring it home, and it becomes a favorite part of your wardrobe. Now take a moment to think about everything that makes that shirt available to you, such as the manufacturer purchasing and receiving all the materials to make it and then producing the shirt. The manufacturer then sending the shirt to the retail company and the company shipping it to the store you shop at. Your retail store, receiving, stocking and adding the shirt to their inventory and finally you purchasing it. Wow, that's a lot of work for the t-shirt of your dreams. Welcome to the supply chain data analyst certificate. If you consider the one experience you just imagined and apply it on a global scale. I'm sure you won't be surprised that the world's supply chain market is projected to have double digit compound annual growth for the foreseeable future. So if you want to piece of this action, you're in the right place.
 
@@ -44,7 +44,7 @@ You'll start out by realizing what data analytics entails and why data governanc
 
 In many of the activities, you'll be using spreadsheets to review, analyze and prepare data. You can use Google Sheets or Microsoft Excel for these. You'll also be creating slide presentations, which you can create in either Google slides or Microsoft PowerPoint. If you have other tools you'd like to use, such as SQL, Python, Tableau or Power BI, you're more than welcome to use those too. So that's what will be happening, are you as excited as I am to get started? Well then, away we go.
 
-### Supply chain data analyst professional certificate syllabus
+#### Supply chain data analyst professional certificate syllabus
 
 You will complete four courses in this certificate:
 
@@ -56,7 +56,7 @@ You will complete four courses in this certificate:
 
 * **_Supply Chain Software Tools:_** In this course, you’ll learn about the challenges with the large amounts of data used in supply chain analytics and how to effectively gather, analyze, and use the data. You’ll discover advanced technology solutions that can optimize supply chain performance, and you’ll learn about emerging trends in supply chain management (such as artificial intelligence) that are allowing large amounts of data to be processed and summarized instantly. You’ll also prepare for a job as a supply chain analyst by building your resume and profile, learning how to market yourself, and learning how to research and apply to jobs.
 
-### Introduction to supply chain management and analytics
+#### Introduction to supply chain management and analytics
 
 Hi! Now that you've been introduced to the Supply Chain Data Analyst Professional Certificate, let's take a peek at what you'll learn in this course. We'll begin with an introduction to the supply chain process and the key partners involved. Then you'll look into the past with a brief history lesson and look into the future by discovering trends and technology that are already impacting supply chain.
 
@@ -67,7 +67,7 @@ In the next module, you will focus on how analytics assist with finance and logi
 You'll also learn the impact of the supply chain network on an organization's sustainability goals, and we'll focus on how to use data and analytics to create or participate in sustainability process improvement initiatives for supply chain networks. Throughout the course, the primary focus will be on YOU... the supply chain analyst... and your role in all these areas. By the end of the course, you'll have a great introduction to the responsibilities and endless opportunities in the world of supply chain analytics. Are you excited to learn more? Let's do it!
 
 
-### Introduction to supply chain management
+#### Introduction to supply chain management
 
 I would like to start by telling you a story about the exciting journey of Sarah and the Widget. Once upon a time in the world of supply chain, a renowned manufacturer called Techy Time Gadgets has been hard at work to develop a fun, new gaming device called the Widget. They are soooo close to the launch stage and are excited about the possibilities.
 
@@ -77,7 +77,7 @@ Now it's time for Techy Time's third party logistics provider, Swifty Ship Logis
 
 Finally, the day arrives when the Widget graces the shelves of Entertain Electronics. Excited customers flock to the store, eagerly purchasing the highly anticipated device. Sarah's company hits record sales and she offers rave reviews of Techy Time Gadgets' commitment to customer service. Techy Time uses Sarah's order.... and the many other orders they receive.... as historical data that will be used to forecast future demand. And everyone lives happily ever after. So, did you like the story? I hope you see how it demonstrates the intricate dance between several key groups in the supply chain, and the crucial role each plays in bringing products from a concept to tangible manufactured goods that delight customers. Now let's start learning more about these different groups and other supply chain fundamentals!
 
-### Supply chain network
+#### Supply chain network
 
 Now that you have a high level introduction to supply chain management, let's dive into the fascinating world of the supply chain network. By the end of this video, you will be able to define the supply chain network and describe its components. Here's an interesting back for you. Did you know that as of the end of 2022, Unilever spent 43.2 billion Euro on their supply chain, which included partnering with over 52,000 suppliers in 155 countries? Wow, that's quite a network. So when I say supply chain network, what do I mean? It's the interconnected structure of all the organizations, individuals, activities, and resources that are involved in the movement and transformation of products and services from creators to end customers. In other words, it's everyone involved in getting a raw material turned into a product and delivering it to consumers. Let's look closer at the different components of the supply chain network. This includes, suppliers, manufacturers, logistics, and customers who collaborate to ensure the efficient flow of goods and services throughout the entire supply chain process.
 
@@ -89,7 +89,7 @@ In our Unilever scenario, a customer may be a company like supermarket, convenie
 
 They are a driving force to the supply chain. For example, Unilever may get consumer feedback that one scent of dish soap is preferred more than another, so they can plan to increase production of one and decrease production of the less popular. This helps a company tailor their production, distribution, and marketing strategies which all help create a great experience for the consumer. And that's what every company strives for, because it leads to trust and long term relationships with a consumer. It's all about understanding their needs and creating products and services that truly resonate with them. So, as you can see, these four components in the supply chain network suppliers, manufacturers, logistics, and customers are all interconnected through communication, information sharing, and the flow of products and materials. And this is not a linear flow from suppliers to customers, it takes collaboration, coordination, and a lot of alignment between all four components to meet demand while maintaining a successful operation model that drives profit. It sure is a complex structure, and you'll learn more about what's involved coming up next.
 
-### The customer value
+#### The customer value
 
 In the world of supply chain, there’s one guiding truth: The customer is the compass that guides every strategic move, every tactical decision, and most of the operational choices we make. Let’s look at how to live this truth through effective supply chain management (SCM) and how SCM benefits both the customer and the supply chain organization.
 
@@ -151,7 +151,7 @@ Leveraging data analytics and insights from the supply chain, Fancy Fashions can
 
 As you can see, by optimizing its supply chain, Fancy Fashions can deliver a seamless and satisfying shopping experience for customers, offering trendy and diverse clothing options, maintaining quality and ethical standards, ensuring efficient delivery and returns, and engaging customers through personalized interactions. These factors collectively add value to the customer experience and contribute to customer loyalty and brand advocacy.
 
-### Changes and measures for impact prevention
+#### Changes and measures for impact prevention
 
 In the chain of events in which materials and products move from suppliers to manufacturers to warehouses and finally to customers, one principle is always true: Expect the unexpected. Whether “the unexpected” is the aftermath of a natural disaster or restrictions imposed by global political turmoil, the supply chain analyst’s role is to ensure that these unexpected events have minimal impact on their company’s supply chain. Let’s discover some key strategies for impact prevention and then see these strategies in action.
 
@@ -197,7 +197,7 @@ As events unfolded, Techy Time quickly shared information with their partners, e
 
 As the event unfolded, Techy Time's scenario planning exercises, constant monitoring, and commitment to learning from past experiences kept them one step ahead. Then, as the event came to a close, Techy Time emerged unscathed and even stronger, showing the remarkable impact of a customer-focused, agile, and resilient supply chain in navigating disruptions from big events.
 
-### How my role as an analyst impacts the supply chain
+#### How my role as an analyst impacts the supply chain
 
 As you learn more about the day to day responsibilities of a supply chain analyst, it's worth taking a step back to look at how those responsibilities shape an organization's business. Understanding the point of your role helps give context for the decisions you’ll need to make.
 
@@ -208,7 +208,7 @@ Except when we're done, instead of having a cute picture of a lakeside cottage, 
 One last thing, let's talk risk management. We supply chain analysts also use the data to identify potential risks, like natural disasters, geopolitical issues, demand fluctuations, or compliance failures. That helps our organizations get ahead of any problems and develop contingency plans to minimize the impact of disruptions.
 Play video starting at :3: and follow transcript3:00
 
-### The supply chain process
+#### The supply chain process
 
 Inventory planning, which involves determining the quantities of products available to meet customer demand. In her role, Parvadi analyzes existing production plans, incoming product, promotions, historical data, and customer insights to estimate future demand, and the probability of fulfilling it. Then it's important to manage inventory levels. Parvadi determines optimal stocking levels. Do we have too much? Do we have too little? She also tracks inventory movement both inbound and outbound, and implements inventory replenishment strategies to determine time line and quantities. Parvadi's key objective is to strike a balance between ensuring efficient inventory available to meet customer needs and minimizing excess inventory to avoid unnecessary costs. Of course, all this inventory has to be moved around, and that's where transportation comes in. This involves moving goods from suppliers to customers and sometimes back from the customer.
 
@@ -220,7 +220,7 @@ Defining project scope, setting supporting timelines, identifying other key reso
 
 A complete circle and all of these components of the supply chain process have one common focus, customer service, which means meeting customer requirements and their expectations. As well as providing a satisfactory experience throughout the order fulfillment process. Parvadi contributes by providing clear and precise communication, as well as monitoring key performance indicators related to customer satisfaction, and identifying areas for improvement. She also analyzes customer service metrics, identifies trends, and makes recommendations to improve overall customer satisfaction and loyalty. There's a lot of work to do in the role of an analyst, but Parvadi loves making an impact in every aspect of the supply chain. In the rest of this lesson, you'll look more closely at each of these components, and your role in them. Enjoy, and I think it's time for Parvadi and me to get some lunch.
 
-### Supply chain inventory and planning
+#### Supply chain inventory and planning
 
 Now that you have an introduction to the supply chain process, it's time to get to know its components in more detail. By the end of this video, you will be able to define supply chain inventory and planning, explain its importance, and identify the supply chain analyst role in inventory planning. Supply chain inventory refers to the finished goods, raw materials and components such as packaging and accessories held by suppliers, manufacturing facilities and distribution centers throughout the supply chain process. These organizations strive to maintain the optimal amount of inventory on hand to support customer demand and ensure availability of products when needed. Despite uncontrollable variables they sometimes face. Supply chain planning involves the management and optimization of this inventory. So, planning helps organizations ensure the right products are available at the right time and in the right quantity throughout the supply chain network. And keep this in mind all these companies want to minimize their costs while maximizing operational efficiency. And planning, helps achieve these goals too. As you can imagine, inventory planning is crucial.
 
@@ -234,7 +234,7 @@ What data do you look at for inventory planning? You'll consider lead time, whic
 
 As a data analyst, you'll also work closely with many other stakeholders throughout the supply chain, such as customers and suppliers, to ensure alignment of inventory planning activities. You're in insights and recommendations here will affect inventory levels, forecast accuracy, stock outs and performance throughout the supply chain. By implementing inventory planning in your role as a supply chain analyst, you'll help the organization work toward achieving the KPIs and the operational excellence that drives efficiency and supports profits. Sounds exciting, you'll have quite an impact, that's for sure.
 
-### Supply chain transportation and customer service
+#### Supply chain transportation and customer service
 
 By the end of this video, you will be able to define supply chain transportation and customer service, explain the importance of them on supply chain management, and identify the supply chain analyst's role in supply chain transportation and customer service. Just think about it. From the massive container ships that traverse the oceans to the intricate web of planes, trains, and trucks that criss cross the continents, transportation plays an incredible role in the supply chain. Achieving excellent customer service is all about getting these goods to the right place at the right time, every single time. We'll start with transportation, which involves tasks such as selecting transportation modes, route planning, carrier management, and execution of transportation activities to ensure efficient and timely delivery of products. Distribution and warehouse operations are also involved in transportation because they focus on moving and storing goods within a warehouse or a distribution center.
 
@@ -250,7 +250,7 @@ It's also important to explore opportunities for freight consolidation, or combi
 
 If all of those responsibilities aren't enough to get you excited, let's talk about what the supply chain analyst does related to customer service. First, you'll perform customer service performance analysis looking at metrics and KPIs, monitoring performance, and identifying trends, all of which help you understand behaviors and provide insights into improving and optimizing customer service processes. You'll also collaborate closely with the demand planning team to ensure customer purchases are considered for the overall supply chain requirements. By incorporating demand planning insights, you can enhance customer service and fulfillment rates, ultimately resulting in improved customer satisfaction. The supply chain analyst also has a hand in order management and tracking by collaborating with various teams to ensure accurate order processing, monitoring status of the orders, tracking shipments, and addressing any delays. You may also be involved in training customer service teams, helping them understand supply chain dynamics. You can also help align customer service strategies and goals with other teams such as sales and marketing. I know you're hearing about lots of analysis and planning tasks that you know nothing about yet but don't worry, you'll learn how to do all of this later in the program. For now, just realize that your future role in supply chain analytics has amazing potential for both you and the organizations you work with.
 
-### Supply chain procurement, manufacturing, warehousing and distribution
+#### Supply chain procurement, manufacturing, warehousing and distribution
 
 You've been introduced to the different gears of the supply chain machine, and in this video, we'll continue exploring those gears. By the end of this video, you will be able to define supply chain procurement, manufacturing, warehousing, and distribution. You'll also be able to explain their importance on supply chain management, and identify the supply chain analysts role in these areas. From procuring the finest materials, to manufacturing them into finished products, from optimizing warehousing operations, to orchestrating efficient distribution networks, every step plays a crucial role in getting products into the hands of consumers.
 
@@ -276,10 +276,20 @@ Collaboration continues during manufacturing, and you might work with sales and 
 
 These metrics provide valuable insights into the performance of your warehousing and distribution operations. You may also get involved with inventory optimization by exploring alternative strategies such as just-in-time delivery management, vendor managed inventory, or consignment inventory arrangements. You'll learn more about these later in the program. You'll likely evaluate and deploy warehouse management systems, barcode scanning systems, and other automation tools to streamline processes, improve data accuracy, and enhance operational efficiency. Finally, you'll play a crucial role in project management, overseeing technology initiatives, coordinating with stakeholders, ensuring smooth implementation, and driving adoption of digital solutions. From procurement to distribution, and everything in-between, there's never a dull moment in the life of a supply chain analyst.
 
-### Project management and IT
+#### Project management and IT
 
 By the end of this video, you will be able to define supply chain project management and IT or information technology. Explain their importance on supply chain management, and identify the supply chain analyst role in supply chain project management and IT. Are you ready to unlock the secrets and superpowers that the dynamic duo of project management and information technology can use to achieve seamless operations, accelerated growth, and unparalleled customer satisfaction in the magical realm of the supply chain? Okay, yeah, that may be a bit dramatic, but the strategic use of project management and IT really can help a supply chain analyst show off their abilities and positively impact their organization. Let's see how. We'll start with project management, which includes implementing new systems and technologies, improving existing processes. Introducing new technologies, really anything that involves planning, executing, and controlling activities that aim to enhance the efficiency and effectiveness of supply chain operations.
 
 As a supply chain analyst, you can contribute to project management during the design, development, deployment, and implementation of a project. It starts by collaborating with other stakeholders to define requirements, project objectives, scope, deliverables, and timelines. During this initial design stage, you need to identify and engage key users, support project teams, and provide feedback on development of project plans and right resources for the project. Throughout the remaining stages of a project, you'll communicate with the team and stakeholders to ensure alignment, communicate progress, validate results, and manage expectations. You should evaluate the results and capture feedback from stakeholders and end users to integrate the project output into the existing supply chain processes. Now, let's look at information technology or IT, and the pivotal role it plays in evolving supply chain management.
 
 IT systems build the infrastructure to facilitate data collection, which in turn enables analysis and decision making, as well as streamlined communication and collaboration among supply chain stakeholders. Your role as a supply chain analyst in IT includes actively contributing to the solution design stage. Bringing your understanding of the business requirements and the potential opportunities to help you envision innovative solutions. You may also help develop conceptual models and design solutions for the supply chain network. During the implementation of solutions such as enterprise resource planning systems, warehouse management systems, or transportation management systems. You will collaborate with the IT teams to provide functional requirements and ensure successful system deployment, this will also include training to use the solutions. You'll likely be involved in technology evaluation too. You may help identify opportunities where technology can provide support to operations and even automate tasks. You could be brought in to evaluate emerging technologies and assess their potential benefits for your current supply chain operations and conduct cost benefit analysis so you can make appropriate recommendations. So, the supply chain analyst really does play a critical role in project management and IT initiatives within supply chain management. Contributing to identifying opportunities as well as to the design, development, deployment, and implementation of projects, optimization of processes, and leveraging technology for improved supply chain performance. Are you ready to put on your superhero cape and conquer the supply chain world? Not so fast. There's plenty more to learn.
+
+##### Logistics
+
+In the world of supply chain, a product’s journey often involves multiple transportation modes, customs regulations, and ports of entry in regions around the globe. Logistics includes the planning, implementation, and management of this journey to ensure the smooth movement of products from suppliers all the way to consumers.
+
+At the heart of logistics lies the supply chain analyst, who helps navigate any complexities, optimizes operations, and ensures a seamless flow with multiple logistical strategies. Let’s take a peek into the world of logistics and the contributions of supply chain analysts.
+
+Transportation
+
+There are multiple modes of transportation that may be included in supply chain logistics. Let’s see when and why each mode is used.
