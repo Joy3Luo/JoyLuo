@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Supply Chain Management and Analytics
-date: 2025-02-02 11:18 +0800
+date: 2019-02-02 11:18 +0800
 tags: [supply-chain]
 toc:  true
 ---
