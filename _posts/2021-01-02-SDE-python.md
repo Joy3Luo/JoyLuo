@@ -180,6 +180,215 @@ print("Raw String:", raw_string)
 
 However, in the raw string raw_string, the backslashes are treated as literal characters. This means that \n is not interpreted as a newline character, but rather as two separate characters, \ and n. Consequently, the file path is represented exactly as it appears.
 
+Consider the variable <code>g</code>, and find the first index of the sub-string <code>snow</code>:
+
+```python
+g = "Mary had a little lamb Little lamb, little lamb Mary had a little lamb \
+Its fleece was white as snow And everywhere that Mary went Mary went, Mary went \
+Everywhere that Mary went The lamb was sure to go"
+
+g.find("snow")
+```
+
+In the variable <code>g</code>, replace the sub-string <code>Mary</code> with <code>Bob</code>:
+
+```python
+g.replace("Mary", "Bob")
+```
+
+In the variable <code>g</code>, replace the sub-string <code>,</code> with <code>.</code>:
+
+```python
+g.replace(',','.')
+```
+
+In the variable <code>g</code>, split the substring to list:
+
+```python
+g.split()
+```
+
+In the string <code>s3</code>, find whether the digit is present or not using the <code>\d</code> and <code>search() </code>function:
+
+```python
+s3 = "House number- 1105"
+
+# Use the search() function to search for the "\d" in the string
+result = re.search(r"\d", s3)
+
+# Check if a match was found
+if result:
+    print("Digit found")
+else:
+    print("Digit not found.")
+```
+
+In the string <code>str1</code>, replace the sub-string <code>fox</code> with <code>bear</code> using <code>sub() </code>function:
+
+```python
+str1= "The quick brown fox jumps over the lazy dog."
+
+# Use re.sub() to replace "fox" with "bear"
+new_str1 = re.sub(r"fox", "bear", str1)
+
+print(new_str1)
+```
+
+In the string <code>str2</code> find all the occurrences of <code>woo</code> using <code>findall()</code> function:
+
+```python
+str2= "How much wood would a woodchuck chuck, if a woodchuck could chuck wood?"
+
+# Use re.findall() to find all occurrences of "woo"
+matches = re.findall(r"woo", str2)
+
+print(matches)
+```
+---
+
+#### RegEx
+
+In Python, RegEx (short for Regular Expression) is a tool for matching and handling strings.
+
+This RegEx module provides several functions for working with regular expressions, including <code>search, split, findall,</code> and <code>sub</code>.
+
+
+Python provides a built-in module called <code>re</code>, which allows you to work with regular expressions.
+First, import the <code>re</code> module
+
+```python
+import re
+```
+
+The search() function searches for specified patterns within a string. Here is an example that explains how to use the search() function to search for the word "Body" in the string "The BodyGuard is the best".
+
+```python
+s1 = "The BodyGuard is the best album"
+
+# Define the pattern to search for
+pattern = r"Body"
+
+# Use the search() function to search for the pattern in the string
+result = re.search(pattern, s1)
+
+# Check if a match was found
+if result:
+    print("Match found!")
+else:
+    print("Match not found.")
+```
+> Match found!
+
+Regular expressions (RegEx) are patterns used to match and manipulate strings of text. There are several special sequences in RegEx that can be used to match specific characters or patterns
+
+| Special Sequence | Meaning                 | 	Example             |
+| -----------  | ----------------------- | ----------------------|
+| \d|Matches any digit character (0-9)|"123" matches "\d\d\d"|
+|\D|Matches any non-digit character|"hello" matches "\D\D\D\D\D"|
+|\w|Matches any word character (a-z, A-Z, 0-9, and _)|"hello_world" matches "\w\w\w\w\w\w\w\w\w\w\w"|
+|\W|Matches any non-word character|	"@#$%" matches "\W\W\W\W"|
+|\s|Matches any whitespace character (space, tab, newline, etc.)|"hello world" matches "\w\w\w\w\w\s\w\w\w\w\w"|
+|\S|Matches any non-whitespace character|"hello_world" matches "\S\S\S\S\S\S\S\S\S\S\S"|
+|\b|Matches the boundary between a word character and a non-word character|"cat" matches "\bcat\b" in "The cat sat on the mat"|
+|\B|Matches any position that is not a word boundary|"cat" matches "\Bcat\B" in "category" but not in "The cat sat on the mat"|
+
+Special Sequence Examples:
+
+A simple example of using the <code>\d</code> special sequence in a regular expression pattern with Python code:
+
+```python
+pattern = r"\d\d\d\d\d\d\d\d\d\d"  # Matches any ten consecutive digits
+text = "My Phone number is 1234567890"
+match = re.search(pattern, text)
+
+if match:
+    print("Phone number found:", match.group())
+else:
+    print("No match")
+```
+> Phone number found: 1234567890
+
+The match.group() method is used in Python's re module to retrieve the part of the string where the regular expression pattern matched. Here's a detailed explanation:
+
+**Purpose**
+- Extract Matched Text: match.group() returns the exact substring that matched the pattern.
+
+**Usage**
+- When you use functions like re.search() or re.match(), they return a match object if the pattern is found. You can then use match.group() to get the matched text.
+
+Here `match.group()` retrieves the substring 1234567890 from the text, which is the part that matched the pattern.
+
+The regular expression pattern is defined as r"\d\d\d\d\d\d\d\d\d\d", which uses the \d special sequence to match any digit character (0-9), and the \d sequence is repeated ten times to match ten consecutive digits
+
+A simple example of using the <code>\W</code> special sequence in a regular expression pattern with Python code:
+
+
+```python
+pattern = r"\W"  # Matches any non-word character
+text = "Hello, world!"
+matches = re.findall(pattern, text)
+
+print("Matches:", matches)
+```
+> Matches: [',', ' ', '!']
+
+The regular expression pattern is defined as r"\W", which uses the \W special sequence to match any character that is not a word character (a-z, A-Z, 0-9, or _). The string we're searching for matches in is "Hello, world!".
+
+The <code>findall()</code> function finds all occurrences of a specified pattern within a string.
+
+```python
+s2 = "The BodyGuard is the best album of 'Whitney Houston'."
+
+# Use the findall() function to find all occurrences of the "st" in the string
+result = re.findall("st", s2)
+
+# Print out the list of matched words
+print(result)
+```
+> ['st', 'st']
+
+A regular expression's <code>split()</code> function splits a string into an array of substrings based on a specified pattern.
+
+
+```python
+s2 = "The BodyGuard is the best album of 'Whitney Houston'."
+
+# Use the split function to split the string by the "\s"
+split_array = re.split(r"\s", s2)
+
+# The split_array contains all the substrings, split by whitespace characters
+print(split_array)
+```
+> ['The', 'BodyGuard', 'is', 'the', 'best', 'album', 'of', "'Whitney", "Houston'."]
+
+Here's a detailed explanation:
+
+<code>re.split("\s", s2)</code>:
+
+**re.split**: This function splits a string by the occurrences of a pattern.
+- **r"\s"**: This is a regular expression pattern that matches any whitespace character (spaces, tabs, newlines, etc.).
+- **s2**: This is the string that you want to split.
+
+The <code>sub</code> function of a regular expression in Python is used to replace all occurrences of a pattern in a string with a specified replacement.
+
+
+```python
+s2 = "The BodyGuard is the best album of 'Whitney Houston'."
+
+# Define the regular expression pattern to search for
+pattern = r"Whitney Houston"
+
+# Define the replacement string
+replacement = "legend"
+
+# Use the sub function to replace the pattern with the replacement string
+new_string = re.sub(pattern, replacement, s2, flags=re.IGNORECASE)
+
+# The new_string contains the original string with the pattern replaced by the replacement string
+print(new_string)
+```
+> The BodyGuard is the best album of 'legend'.
+
 ---
 
 ### Functions
